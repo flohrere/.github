@@ -1,3 +1,4 @@
-## flohrere
-
-berlin-based blogging platform
+- website: [www.flohrere.com](https://www.flohrere.com/)
+- twitter: [@flohrere](https://www.twitter.com/flohrere)
+- instagram: [@flohrere](https://www.instagram.com/flohrere)
+- github: [flohrere](https://www.github.com/flohrere)
